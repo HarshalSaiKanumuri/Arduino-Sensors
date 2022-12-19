@@ -15,9 +15,9 @@ Distance = velocity of Ultrasonic wave / time
 
 Data sheet : https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 The data sheet prescribes the user to:
--send 10us high signal to the trigger ( )
+-send 10us high signal to the trigger
 -time the high level duration
-- Test distance = (high level time * velocity of sound ( 340M/s)/2
+-Test distance = (high level time * velocity of sound ( 340M/s)/2
 
 ![image](https://user-images.githubusercontent.com/121031084/208462561-f7f73937-bcb7-4f2f-87e3-70e4ac01f1dc.png)
 
