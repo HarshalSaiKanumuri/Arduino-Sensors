@@ -10,7 +10,13 @@ This will be used as an Ultrasonic Sonic distance sensor.
 Here is some theory :
 
 There is a trasmitter sends Ultrasonic pulses and when the waves are reflected back on to the reciever , the system records the time taken.
-With this information the system can output the distance with Distance = velocity of Ultrasonic wave / time
+With this information the system can output the distance with 
+Distance = velocity of Ultrasonic wave / time
+
+Data sheet : https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
+
+![image](https://user-images.githubusercontent.com/121031084/208462561-f7f73937-bcb7-4f2f-87e3-70e4ac01f1dc.png)
+
 
 2. MPU-6050
 3. GY-NEO6MU2
