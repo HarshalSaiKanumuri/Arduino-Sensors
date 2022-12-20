@@ -31,6 +31,9 @@ This sensor has tempreature sensor , accelerometer and a gyroscope.
 The gyroscope measure the angular motion of an object and the accelerometer measure the acceleration of the object.
 The code that will be provided will be capable of calculating angle from these sensors.
 
+This document has information on registers on the MPU-6050 to read from:
+https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf
+
 ![image](https://user-images.githubusercontent.com/121031084/208658511-5689fe2c-1e8f-4a13-ae6b-f92a41ed881d.png)
 
 
