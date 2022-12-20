@@ -26,5 +26,13 @@ The data sheet prescribes the user to:
 
 
 2. MPU-6050
+
+This sensor has tempreature sensor , accelerometer and a gyroscope.
+The gyroscope measure the angular motion of an object and the accelerometer measure the acceleration of the object.
+The code that will be provided will be capable of calculating angle from these sensors.
+
+![image](https://user-images.githubusercontent.com/121031084/208658511-5689fe2c-1e8f-4a13-ae6b-f92a41ed881d.png)
+
+
 3. GY-NEO6MU2
 4. IR sensor
