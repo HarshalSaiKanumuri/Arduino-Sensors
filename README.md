@@ -4,7 +4,7 @@ The code is inteded for all to use on their arduino to get relevant data from th
 
 The sensors included in the repository are :
 
-1. HC-SR04:
+##1. HC-SR04:
 
 This will be used as an Ultrasonic Sonic distance sensor.
 Here is some theory :
@@ -25,7 +25,7 @@ The data sheet prescribes the user to:
 ![image](https://user-images.githubusercontent.com/121031084/208462561-f7f73937-bcb7-4f2f-87e3-70e4ac01f1dc.png)
 
 
-2. MPU-6050
+##2. MPU-6050
 
 This sensor has tempreature sensor , accelerometer and a gyroscope.
 The gyroscope measure the angular motion of an object and the accelerometer measure the acceleration of the object.
