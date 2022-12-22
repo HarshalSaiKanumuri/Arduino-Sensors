@@ -9,6 +9,11 @@ void setup(){
 }
 
 void loop(){
+  Distance();
+
+}
+
+void Distance(){
   digitalWrite(trig,LOW);
   delay(0.002);
   digitalWrite(trig,HIGH);
